@@ -1,0 +1,5 @@
+// cities500 dünya geneli (tr hariç). diğerleri tr içi
+// mahalle.json ve koy.json ilçelere bağlı (countryleri orayı gösteriyor) ve o ilçe seçilmiş gibi davranış gösteriyorlar
+// ilce.json'ın koordinatları var. koordinata göre aratılıyorlar weatherapi'den. countryleri il idsini değil ismini gösteriyor
+// il.json'ın koordinatları yok. direk weatherapi'den isme göre aratılıyorlar. countryleri gerçekten countryi gösteriyor (TR)
+// cities500.json'ın koordinatları var. koordinata göre aratılıyorlar weatherapiden
